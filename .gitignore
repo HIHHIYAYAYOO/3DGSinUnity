@@ -70,3 +70,28 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Test
+*.csproj
+*.sln
+.DS_Store
+.idea
+
+/builds/*
+/images/*
+/Shot-*.png
+
+/Assets/GaussianAssets/*
+/Assets/GaussianAssets.meta
+/Assets/Models~/*
+/Library/*
+/Logs/*
+/Temp/*
+/UserSettings/*
+/obj/*
+
+/projects/**/Library/*
+/projects/**/Logs/*
+/projects/**/Temp/*
+/projects/**/UserSettings/*
+/projects/**/obj/*
