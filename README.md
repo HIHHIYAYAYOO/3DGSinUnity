@@ -1,5 +1,5 @@
 # 3DGSinUnity
-TestByCopy
+
 組員使用
 1. 安裝 GitHub Desktop
 2. 安裝 Git LFS
