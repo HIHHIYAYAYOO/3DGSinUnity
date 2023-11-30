@@ -17,6 +17,9 @@
 /UserSettings/*
 /obj/*
 
+/projects/**/Assets/GaussianAssets/*
+/projects/**/Assets/GaussianAssets.meta
+/projects/**/Assets/Models~/*
 /projects/**/Library/*
 /projects/**/Logs/*
 /projects/**/Temp/*
